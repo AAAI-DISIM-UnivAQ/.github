@@ -11,4 +11,4 @@ Our study and research interests are:
 * knowledge representation
 * computer vision
 
-Our students have to design, implement and validate a working projects in cognitive robotics and/or multi-agent systems in our lab in order to pass the exam.
+Our students have to design, implement and validate working prototypes in cognitive robotics and/or multi-agent systems in our lab in order to pass the exam.
