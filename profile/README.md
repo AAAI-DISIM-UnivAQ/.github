@@ -1,5 +1,9 @@
 # AAAI-DISIM-UnivAQ Organization in GitHub
-This organization is coordinated by myself [(giodegas)](https://github.com/giodegas) including current active student members of the "Intelligent Systems & Robotics Laboratory" at the [Dipartimento di Ingegneria e Scienze dell'Informazione e Matematica](https://www.disim.univaq.it) , [Università degli Studi dell'Aquila, Italy](https://www.univaq.it)
+This organization is coordinated by myself [(giodegas)](https://github.com/giodegas) including current active student members of the "Intelligent Systems & Robotics Laboratory" at the
+
+[Dipartimento di Ingegneria e Scienze dell'Informazione e Matematica](https://www.disim.univaq.it) , 
+
+[Università degli Studi dell'Aquila, Italy](https://www.univaq.it)
 
 Our study and research interests are:
 
