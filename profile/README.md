@@ -1,5 +1,6 @@
 # AAAI-DISIM-UnivAQ Organization in GitHub
-This organization is coordinated by myself [(giodegas)](https://github.com/giodegas) including current active student members of the "Intelligent Systems & Robotics Laboratory" at the
+
+This organization is coordinated by myself [(giodegas)](https://github.com/giodegas) including research collaborators of the AI area @DISIM, and current active student members of the "Intelligent Systems & Robotics Laboratory"
 
 [Dipartimento di Ingegneria e Scienze dell'Informazione e Matematica](https://www.disim.univaq.it) , 
 
